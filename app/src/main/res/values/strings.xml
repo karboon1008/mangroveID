@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MangroveID</string>
+    <string name="select_image">Select Image</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="prediction">Prediction</string>
+    <string name="predict">Predict</string>
+
+    <string name="permission_required">Camera access is required to display the camera preview.</string>
+    <string name="ok">OK</string>
+    <string name="permission_granted">Permission is granted. You can use the camera now.</string>
+    <string name="white_background">White BG</string>
+    <string name="complex_bg">Complex BG</string>
+    <string name="welcome_to_the_app">Welcome to the App!</string>
+    <string name="mangroveid">MangroveID</string>
+    <string name="home">Home</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="home_know">Home-know</string>
+    <string name="todo">TODO</string>
+    <string name="home_fragment">Home fragment</string>
+    <string name="gallery_fragment">Gallery fragment</string>
+    <string name="camera_fragment">Camera Fragment</string>
+</resources>
